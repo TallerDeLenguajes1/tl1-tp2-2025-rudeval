@@ -1,0 +1,13 @@
+f. 
+No puedo ver el archivo tp2_1_2.c en main porque fue creado y commiteado
+en la rama Opcion_2, por lo que no existe en la rama Main. 
+
+Después de agregar el archivo respuestas y hacer el commit, puedo ver que
+en el source control vuelve a la rama main, y queda la rama opción 2 separada
+con su propio historial. Mostrando que Opcion_2 salió desde main en un punto
+pero luego se separó.
+
+Después de hacer el merge:
+Se combinaron los cambios de Opcion_2 dentro de main. 
+La rama main ahora tiene todo lo que tenía Opcion_2, y se ve como las ramas
+en el gráfico se juntan. 
